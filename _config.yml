@@ -2,7 +2,7 @@
 title: TZM Greece
 tag_text: The Zeitgeist Movement Greece
 description: The web site of TZM Greece
-url: "http://127.0.0.1:4000"
+url: "http://zeitgeistmovement.gr"
 baseurl: ""
 
 font-awesome-include: true # make this false if you don't need font-awesome
