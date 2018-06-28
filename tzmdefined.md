@@ -7,8 +7,8 @@ layout: default
 <ul class="menu">
 <li><a href="/">Αρχική</a></li>
 <li><a href="/tzmdefined" class="active">Ορισμός του Κινήματος</a></li>
-<li><a href="/guide">Οδηγός</a></li>
-<li><a href="/coordinator">Συντονιστής Τμήματος</a></li>
+<li><a href="/guide">Οδηγός Τμημάτων</a></li>
+<li><a href="/coordinator">Τεστ Υποψηφίων Συντονιστών Τμήματος</a></li>
 </ul>
 
 ### Ορισμός του κινήματος Zeitgeist
