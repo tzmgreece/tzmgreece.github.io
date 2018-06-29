@@ -9,6 +9,7 @@ layout: default
 <li><a href="/tzmdefined">Ορισμός του Κινήματος</a></li>
 <li><a href="/guide">Οδηγός Τμημάτων</a></li>
 <li><a href="/coordinator">Τεστ Υποψηφίων Συντονιστών Τμήματος</a></li>
+<li><a href="/contact">Επικοινωνία</a></li>
 </ul>
 
 ### Ανακοίνωση αποχώρησης
