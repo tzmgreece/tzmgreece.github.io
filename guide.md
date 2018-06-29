@@ -19,3 +19,5 @@ layout: default
 
 [Οδηγός Τμημάτων]({{ site.url }}/files/chapter_guide_v0_5.pdf)
 
+Ο οδηγός αυτός είναι σε μορφή PDF και διατίθεται ελεύθερα υπό την άδεια [Creative Commons](https://creativecommons.org/).
+

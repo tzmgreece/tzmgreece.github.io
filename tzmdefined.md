@@ -18,3 +18,5 @@ layout: default
 της δομής, της λειτουργίας καθώς και των ιδεών του κινήματος Zeitgest. 
 
 [Οδηγός Κινήματος Zeitgeist]({{ site.url }}/files/TZMD.pdf)
+
+Ο οδηγός αυτός είναι σε μορφή PDF και διατίθεται ελεύθερα υπό την άδεια [Creative Commons](https://creativecommons.org/).
